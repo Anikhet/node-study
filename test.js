@@ -8,7 +8,7 @@
 // },3000);
 
 // const inter = setInterval(()=> {
-//     console.log('in the Matrix every 1 seconds')
+//     console.log('in the Matrix every 1 seconds');
 // },1000);
 
 
