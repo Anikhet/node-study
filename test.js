@@ -3,8 +3,8 @@
 // time out and interval
 
 // setTimeout(()=> {
-//     console.log('in the Matrix after 3 seconds')
-//     clearInterval(inter)
+//     console.log('in the Matrix after 3 seconds');
+//     clearInterval(inter);
 // },3000);
 
 // const inter = setInterval(()=> {
