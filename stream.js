@@ -10,3 +10,7 @@ readStream.on('data',(chunk)=> {
     writeStream.write(chunk);
 
 })
+
+// Piping - Reads in chunk and writes that chunk
+
+readStream.pipe(writeStream);
